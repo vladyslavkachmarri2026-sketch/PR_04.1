@@ -1,4 +1,5 @@
 // Качмар Владислав
+// варіант 12
 #include <iostream>
 #include <cmath>
 using namespace std;
